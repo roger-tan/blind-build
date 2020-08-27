@@ -4,7 +4,7 @@
 
 Calendar, Time, Hour, Day, Date
 
-You can only say Calendar if the last thing to do is tab bar.
+You can only say Calendar if the last thing to do is the tab bar.
 
 ## Challenge to reproduce blind
 
